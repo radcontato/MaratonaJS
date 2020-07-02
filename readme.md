@@ -19,3 +19,8 @@ npx sequelize-cli init:config
 npm install --save dotenv
 
 npm install --save mysql2
+
+criar database no mysql
+CREATE DATABASE links
+
+npm install --save bcrypt
